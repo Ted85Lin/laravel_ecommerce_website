@@ -1,9 +1,11 @@
 # Laravel 服飾電商網站
 
 本專案敘述：
+<br/>
 使用 Laravel 製作的服飾電商網站，使用者可以選擇要購買的服飾商品及數量，並在調整商品數量後進行價格計算，擁有電商購物車結帳功能，另外可以進行會員註冊以及信用卡驗證，登入後可進行會員購買服務，具備完整的管理者後台商品管理 (CRUD) 功能。
 
 選用技術及工具：
+<br/>
 Laravel、PHP、MySQL、SASS、Bootstrap、JavaScript、Webpack
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
